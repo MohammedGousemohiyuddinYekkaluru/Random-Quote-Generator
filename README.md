@@ -6,7 +6,7 @@ A simple web app that displays a random quote at the click of a button. Built wi
 
 ## 🚀 Live Demo
 
-See it in action: [Live demo link]()
+See it in action: [[Live demo link](https://mohammedgousemohiyuddinyekkaluru.github.io/Random-Quote-Generator/)]()
 
 ---
 
